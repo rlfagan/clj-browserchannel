@@ -1,4 +1,6 @@
 # clj-browserchannel
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fclj-browserchannel.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fclj-browserchannel?ref=badge_shield)
+
 
 Cross-browser compatible, real-time, bi-directional
 communication between ClojureScript and Clojure using Google Closure
@@ -147,3 +149,6 @@ Gijs Stuurman / [@thegeez][twt] / [Blog][blog] / [GitHub][github]
 ### License
 
 Copyright (c) 2012 Gijs Stuurman and released under an MIT license.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fclj-browserchannel.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fclj-browserchannel?ref=badge_large)
